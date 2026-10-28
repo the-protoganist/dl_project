@@ -1,0 +1,4 @@
+video,label,start_sec,end_sec
+PLACEHOLDER/replace_with_real_video_a.mp4,1,10.0,25.0
+PLACEHOLDER/replace_with_real_video_a.mp4,0,0.0,9.0
+PLACEHOLDER/replace_with_real_video_b.mp4,0,,
